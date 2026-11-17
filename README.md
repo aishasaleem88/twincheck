@@ -115,3 +115,7 @@ file that returns specs.
 ## Licence
 
 MIT
+
+## Author
+
+Built by Aisha Saleem. Portfolio: [aishasaleem88.github.io](https://aishasaleem88.github.io)
